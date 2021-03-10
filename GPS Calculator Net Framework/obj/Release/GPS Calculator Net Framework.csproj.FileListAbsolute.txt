@@ -1,0 +1,9 @@
+C:\Users\Levi\source\repos\GPS Calculator Net Framework\GPS Calculator Net Framework\bin\Release\GPS Calculator Net Framework.exe.config
+C:\Users\Levi\source\repos\GPS Calculator Net Framework\GPS Calculator Net Framework\bin\Release\GPS Calculator Net Framework.exe
+C:\Users\Levi\source\repos\GPS Calculator Net Framework\GPS Calculator Net Framework\bin\Release\GPS Calculator Net Framework.pdb
+C:\Users\Levi\source\repos\GPS Calculator Net Framework\GPS Calculator Net Framework\obj\Release\GPS_Calculator_Net_Framework.FormCalc.resources
+C:\Users\Levi\source\repos\GPS Calculator Net Framework\GPS Calculator Net Framework\obj\Release\GPS_Calculator_Net_Framework.Properties.Resources.resources
+C:\Users\Levi\source\repos\GPS Calculator Net Framework\GPS Calculator Net Framework\obj\Release\GPS Calculator Net Framework.csproj.GenerateResource.cache
+C:\Users\Levi\source\repos\GPS Calculator Net Framework\GPS Calculator Net Framework\obj\Release\GPS Calculator Net Framework.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\GPS Calculator Net Framework\GPS Calculator Net Framework\obj\Release\GPS Calculator Net Framework.exe
+C:\Users\Levi\source\repos\GPS Calculator Net Framework\GPS Calculator Net Framework\obj\Release\GPS Calculator Net Framework.pdb
