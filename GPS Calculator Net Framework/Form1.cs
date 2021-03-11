@@ -175,7 +175,7 @@ namespace GPS_Calculator_Net_Framework
 
                     // Set MGRS
                     UTM2MGRS mgrs = new UTM2MGRS(utm.zone, utm.letter, utm.easting, utm.northing);
-                    textBoxMGRS.Text = mgrs.zone.ToString() + mgrs.letter + mgrs.squareID + mgrs.easting + mgrs.northing;
+                    textBoxMGRS.Text = mgrs.zone.ToString() + mgrs.letter + ' ' + mgrs.squareID + ' ' + mgrs.easting + ' ' + mgrs.northing;
                 }
                 // Rudimentary error handling
                 catch (Exception e1)
@@ -256,7 +256,7 @@ namespace GPS_Calculator_Net_Framework
 
                     // Set MGRS
                     UTM2MGRS mgrs = new UTM2MGRS(utm.zone, utm.letter, utm.easting, utm.northing);
-                    textBoxMGRS.Text = mgrs.zone.ToString() + mgrs.letter + mgrs.squareID + mgrs.easting + mgrs.northing;
+                    textBoxMGRS.Text = mgrs.zone.ToString() + mgrs.letter + ' ' + mgrs.squareID + ' ' + mgrs.easting + ' ' + mgrs.northing;
                 }
                 // Rudimentary error handling
                 catch (Exception e1)
@@ -344,7 +344,7 @@ namespace GPS_Calculator_Net_Framework
 
                     // Set MGRS
                     UTM2MGRS mgrs = new UTM2MGRS(utm.zone, utm.letter, utm.easting, utm.northing);
-                    textBoxMGRS.Text = mgrs.zone.ToString() + mgrs.letter + mgrs.squareID + mgrs.easting + mgrs.northing;
+                    textBoxMGRS.Text = mgrs.zone.ToString() + mgrs.letter + ' ' + mgrs.squareID + ' ' + mgrs.easting + ' ' + mgrs.northing;
                 }
                 // Rudimentary error handling
                 catch (Exception e1)
@@ -445,7 +445,7 @@ namespace GPS_Calculator_Net_Framework
                     northing = double.Parse(utmStrings[2]);
 
                     UTM2MGRS mgrs = new UTM2MGRS(zone, letter, easting, northing);
-                    textBoxMGRS.Text = mgrs.zone.ToString() + mgrs.letter + mgrs.squareID + mgrs.easting + mgrs.northing;
+                    textBoxMGRS.Text = mgrs.zone.ToString() + mgrs.letter + ' ' + mgrs.squareID + ' ' + mgrs.easting + ' ' + mgrs.northing;
                 }
                 // Rudimentary error handling
                 catch (Exception e1)
